@@ -30,7 +30,7 @@ class Program
 
     {
 
-        Console.Write("Введiть кiлькiсть чисел: ");
+        Console.Write("Можете ввести числа числа: ");
 
         int k = Convert.ToInt32((Console.ReadLine()));
 
