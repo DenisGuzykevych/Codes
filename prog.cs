@@ -40,7 +40,7 @@ class Program
 
         {
 
-            Console.Write($"Введiть число {i + 3}: ");
+            Console.Write($"Введiть число {i + 7}: ");
 
             a[i] = Convert.ToInt32((Console.ReadLine()));
 
