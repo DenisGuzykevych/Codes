@@ -41,7 +41,7 @@ class Program
 
         {
 
-            Console.Write($"Введiть число {i + 2}: ");
+            Console.Write($"Введiть число {i + 5}: ");
 
             a[i] = Convert.ToInt32((Console.ReadLine()));
 
@@ -57,7 +57,7 @@ class Program
 
         }
 
-        Console.WriteLine($"НСД {a.Length} чисел: {count}");
+        Console.WriteLine($"НСД {a.Length} чисел chysel: {count}");
 
         Console.ReadLine();
 
