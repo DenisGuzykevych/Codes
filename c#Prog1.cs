@@ -57,7 +57,7 @@ class Program
 
         }
 
-        Console.WriteLine($"НСД {a.Length} чисел chysel: {count}");
+        Console.WriteLine($"НСД {a.Length}: {count}");
 
         Console.ReadLine();
 
