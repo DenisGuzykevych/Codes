@@ -1,3 +1,4 @@
+
 using System;
 
 class Program
@@ -30,7 +31,7 @@ class Program
 
     {
 
-        Console.Write("Можете ввести числа числа: ");
+        Console.Write("Можете ввести числа: ");
 
         int k = Convert.ToInt32((Console.ReadLine()));
 
@@ -40,7 +41,7 @@ class Program
 
         {
 
-            Console.Write($"Введiть число {i + 1}: ");
+            Console.Write($"Введiть число {i + 2}: ");
 
             a[i] = Convert.ToInt32((Console.ReadLine()));
 
